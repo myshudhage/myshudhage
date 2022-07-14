@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshdhage A.K.A myshu
 - 👀 I’m interested in imagination
-- 🌱 I’m currently learning React...
+- 🌱 I’m currently Co-Ordinator @AppsTek...
 - 📫 How to reach me 
 https://www.linkedin.com/in/dhagemahesh/
 
